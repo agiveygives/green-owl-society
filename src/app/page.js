@@ -30,7 +30,7 @@ const App = () => (
     <GlobalStyles />
     <ThemeProvider theme={original}>
       <Layout>
-        <div />
+        <h1>Green Owl Society</h1>
       </Layout>
     </ThemeProvider>
   </div>
